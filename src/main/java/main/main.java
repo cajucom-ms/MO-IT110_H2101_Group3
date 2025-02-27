@@ -10,7 +10,7 @@ import Jframes.*;
 
 /**
  *
- * @author User
+ * @author AbegailImeeEnriquez
  */
 public class main {
     
